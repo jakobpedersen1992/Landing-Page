@@ -41,6 +41,7 @@ ul, li, a {
     font-size: 22px;
     gap: 20px;
     font-size: 18px;
+    color: #fff;
 }
 
 .textimg{
@@ -60,7 +61,16 @@ span{
 
 a:hover{
     text-decoration: underline;
+
+    
 }
+
+a:visited {
+    color: #fff;
+    background-color: transparent;
+}
+
+
 
 .cont2{
     display: flex;
